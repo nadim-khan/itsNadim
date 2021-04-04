@@ -462,14 +462,7 @@
 		width: 100%;
 		text-align: left;
 
-		tbody {
-			tr {
-				&:nth-child(2n+2) {
-					background: #f4f4f4;
-				}
-			}
-		}
-
+		
 		td {
 			padding: 0.5em 1em 0.5em 1em;
 		}
